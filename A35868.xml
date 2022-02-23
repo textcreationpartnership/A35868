@@ -1,0 +1,346 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between an exchange, and exchange-alley, or, A court, and city apprentice</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35868</idno>
+            <idno type="STC">Wing D1303</idno>
+            <idno type="STC">ESTC R12007</idno>
+            <idno type="EEBO-CITATION">12332741</idno>
+            <idno type="OCLC">ocm 12332741</idno>
+            <idno type="VID">59704</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59704)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 528:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between an exchange, and exchange-alley, or, A court, and city apprentice</title>
+               </titleStmt>
+               <extent>[4], p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint on p. [4].</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>With: An excellent new ballad. [London] : Printed for Benjamin Harris ... and are to be sold by Langely Curtis ..., 1681.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="dialogue">
+                  <pb facs="tcp:59704:1"/>
+                  <pb n="1" facs="tcp:59704:1" rendition="simple:additions"/>
+                  <head>A DIALOGUE Between an EXCHANGE, AND EXCHANGE-ALLEY; Or, A Court, and City APPRENTICE.</head>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>SIR, here is a Bill of Exchange on your Maſter, will you pay it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>Yes, I'le anſwer your Bill, though I have ſcarce Patience to an<g ref="char:EOLhyphen"/>ſwer you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>Why ſo pray? I don't know my ſelf ſo unhappy as ever to have been in your company long enough to merit a diskindneſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>Come Sir, it's reaſon enough for all Loyal Apprentices to turn Abhorrers of you and all your Gang, who run counter to them, by promoting that idle Paper now going up to my Lord Maior; as I conclude you do, by your living with ſuch a notori<g ref="char:EOLhyphen"/>ous <hi>Fanatick;</hi> for though you were againſt it, he would make you ſign it, or upon re<g ref="char:EOLhyphen"/>fuſal, threaten no Employment beyond Sea, and I don't believe your Loyalty ſo much, but you would throw it all away rather than be ſtarved.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>But that I find ſome, though very much miſtaken, Ingenuity, in what you ſay, I ſhould return an anſwer in harſher Language, but at preſent take this; though my Maſter be a Diſſenter from ſome impoſed Ceremonies (if you call that a <hi>Fanatick,</hi> though your Cant has reached further now) of the Church of <hi>England,</hi> yet I queſti<g ref="char:EOLhyphen"/>on not, he, I am ſure, I, have othergueſs Loyalty for the King, than empty words, or a little roaring <hi>Vive le Roy,</hi> over a Pipe of Wine; and for this Addreſs, if I know any thing of his Mind, he is againſt my medling with it, which I ſhould have agreed to, but that I think it a Duty I owe my ſelf, upon all occaſions to demonſtrate that I am really a <hi>Proteſtant,</hi> and not behind any of your preſumptuous Addreſſers for Loyal<g ref="char:EOLhyphen"/>ty; and if it be more than our place and buſineſs, thus in a Publick manner to de<g ref="char:EOLhyphen"/>clare it, we may be excuſed under that juſt provocation you have given us; and ſince many true Sons of the Church have gone ſo far in the management of it, I am reſol<g ref="char:EOLhyphen"/>ved to be a Diſſenter in nothing but where I ſee good reaſon: But this being no place to talk freely, I could wiſh you would, after I have told this ſmall Summ, afford your ſelf half an Hour's time at <hi>Garraway</hi>'s, to be convinced how ridiculous ſuch Abhorrers render themſelves; which if I don't do to an unbiaſſed reaſon, though perhaps not to your prejudiced and inveigled underſtanding, I'le e'ne turn one too, for I am reſolved, as an ingenuous Perſon ſaid, to be of Nature's ſide.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>Though I am not a little fond of gaining <hi>Proſelites,</hi> yet Dam'e Coffee-houſes,
+<pb n="2" facs="tcp:59704:2"/>they are not for our turn, being all, if not moſt Whiggified hereabouts: if we be ta<g ref="char:EOLhyphen"/>ken notice of, we ſhall be bawled about in a Dialogue; there's <hi>Care, Baldwin,</hi> and <hi>Smith,</hi> have the beſt Noſes (if they don't deal with th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Devil to ſmell things done in the open Street) that ever I knew; you ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>one of ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Party could not have his Poſte<g ref="char:EOLhyphen"/>riors ſaluted in the Street t'other Day, but 'tis in a Dialogue preſently; and the Rogues had like to have ſmelt that <hi>Hodg</hi> was with us to eat the fruits of his Addreſs, but we Hectored that off, and retorted it with a brave ſlur upon <hi>Bethel;</hi> therefore I am for a Tavern, where I will command a Pint of good Wine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>Excuſe me Sir, I never drink Wine in a Morning, and for privacy, I'le enſure you a Room under Lock and Key, where none but our Selves ſhall be Auditors, and if the Boy intrudes with a <hi>What do you lack, do you call, Gentlemen?</hi> I'le commend you in breaking a Diſh upon his Head.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>Well, along lets go, but there's another Objection I have; you have heard, I ſuppoſe the Truth of that Story of the <hi>Quakers</hi> Son, which our Emiſſary <hi>Thomſon</hi> has ſo handſomly confounded with his unparallel'd impudence on <hi>Tueſday</hi> laſt; but there goes an odd paſſage, that he ſhould tell of ſome Body at the <hi>Amſt.</hi> Coffee-houſe, on <hi>Tueſday</hi> next, which methinks ſhould make them all ſeem dangerous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>Never fear; my Money fall's right, only ſome to change; come let's away.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>I'le follow you, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>Boy, ſhew a Room, bring us a Bottle of Syder; Sir, will ye pleaſe to ſit down, this Place will ſerve us to chat as well as the beſt Room in the <hi>Half-moon</hi> Tavern.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>No Reflections, I pray.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>There ſhan't, I'le promiſe you, nothing but matter of Fact, and convincing de<g ref="char:EOLhyphen"/>monſtration ſhall be urged by me, and pray do you promiſe the like, for I hate railing and impertinencies wherever I find them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>Since our time is precious, let's each promiſe Secreſie and Freedom, and ſo proceed to your ridiculing the Abhorrers of your proceedings, who are all the People of <hi>England,</hi> who join with us in Loyal Addreſſes to his Majeſtie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>Hold a little; I muſt beg pardon for interrupting you when you go ſo high at firſt, for if I conſented to what you ſay, I ſhould give up all I have to ſay afterwards; therefore, let's calmly conſider what validity your words are of; I muſt confeſs, had I a <hi>Papiſtical,</hi> or, which I think can't be worſe, a Heatheniſh abſurd Faith, to believe contrary to all my Senſes and thinking Faculties, what thoſe lying Oracles, the <hi>Ob<g ref="char:EOLhyphen"/>ſervator, Heraclitus,</hi> and <hi>Thomſon</hi> have ſaid, and the <hi>Gazet</hi> it ſelf, I doubt not will ſay, when they have got all the Addreſſes they can, and publiſhed them in <hi>Engliſh</hi> and <hi>Erench,</hi> under that Title; I ſhould then be of your Judgment, or rather ill poſſeſſed Opinion; but let the <hi>French</hi> believe what they pleaſe, and further they won't go; eſpe<g ref="char:EOLhyphen"/>cially the great Men, they hate impoſitions, where they think them to be with a deſign; I ſay though their Faith is implicit, and they may by being uſed to believe as the Church believes, bring their Senſes to that abſurdity as to ſay <hi>Amen</hi> to all the fooliſh Legends and idle Stories every Week publiſhed here; yet I know no reaſon why we, who can read Letters, and ſee with our Eyes, and hear with our Ears from more credible Per<g ref="char:EOLhyphen"/>ſons, things of a far different Nature; ſhould not only be contented to have our Poc<g ref="char:EOLhyphen"/>kets picked now and then of a Penny for the novelty of the thing, but at laſt be per<g ref="char:EOLhyphen"/>ſwaded and argue for the Truth of it; but I have often thought that theſe dumb Dogs would never have prevailed by their Black and White, were it not for their impudent Abetters who ſwarm both in City and Countrey; and have ſo induſtriouſly abuſed the latter, that there is nothing to be had out of Town, but thoſe we call Tory Pamphlets; you ſee 'tis almoſt Treaſon to have any other News-book there, or ſo much as the Ci<g ref="char:EOLhyphen"/>ty's Petition, though the Act of the Common-Council, approved of by Common-hall, and Printed by their Order and Authority, if they have any; O, the impudence as well as ingratitude of that Crape-making Town, to abuſe one of its beſt Benefactors at that rate!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>Pray remember your promiſe, <hi>Norwich</hi> is a Town, I have great Veneration for, as being a Pattern to us in Loyalty, in their good though perhaps too much Zealous Addreſs to his Majeſty; and truly I don't ſee they had much reaſon to reſpect the Ci<g ref="char:EOLhyphen"/>ties Petition, when one of our <hi>Ignoramus</hi> Grand-Juries preſented their Addreſs as a Libel; But—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>Pray be franck, let's have no But's—you ſee I make none, becauſe I am
+<pb n="3" facs="tcp:59704:2"/>certain for me, our Diſcourſe ſhall never go further, and if it does, I'le ſpeak nothing I am not afraid to ſtand to before any honeſt Jury any where, let me have but fair play, and onely thoſe that hear me my Accuſers, as Evidence, for I am joined in my Letany with <hi>Hickeringel</hi> againſt the Man-catchers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>Why, that I was ſaying is this; you run away with the Petition, as if the Act of the City, when you know how 'tis Maior ridden, and as it were, the Sheriffs and ſome of the Factious Aldermens great Horſe, which turns which way they would, becauſe they have the bit in its mouth, and I'am afraid, under the roſe our Houſe of Commons is ſo too, for in ſuch Aſſemblies there may be Leaders, who alſo drive the reſt, and theſe Drivers may be Enemies to the King, and the eſtabliſhed Government in Church and State, and then where are we? and you know who were the men in the H. of C. theſe late Parliaments; look into the proceedings of that at <hi>Weſtminſter</hi> and <hi>Oxford,</hi> and you ſhall find that of the 513. not above 15. are the great ſpokeſmen, there is, Sir <hi>W. J.</hi> Sir <hi>F. W.</hi> Coll. <hi>B.</hi> —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>You need not name'em, I find whereabouts you are; and in anſwer, for the City ſhall onely ſay, that you begin with the wrong end of the Horſe, and make it ſuch an Aſs as to ſtand ready Sadled and Bridled, while its Rider Mounts, or is Mount<g ref="char:EOLhyphen"/>ed by another hand: But ſuch has been the kindneſs of our Monarchs to this City whether they have deſerved it or no, I'le onely think, that they have given them the preheminence before moſt places of chuſing their own Annual Governours; and cer<g ref="char:EOLhyphen"/>tainly a better order among ſo great a concourſe of People cannot be than by our Com<g ref="char:EOLhyphen"/>mon Hall, for every Freeholder to have his Vote, unleſs where the Ballot is uſed, in<g ref="char:EOLhyphen"/>conveniencies in which there are too: Now I fancie you nor none of your party, would, but are far from it, have the Government of this City in more hands than it is; nor would you have the K. leave his more weighty or pleaſant affairs to turn Lord Maior: no, you are more civil; and then I think you muſt come to what it is, a plain Lord Mayor and Sheriffs choſen by the People, the Body, the Majority of them, and confirmed by the K. Now when theſe are with ſo much deliberation mounted, they muſt ride till the Year's out, unleſs ſome more than ordinary cauſe; Now if the Citi<g ref="char:EOLhyphen"/>zens of <hi>London</hi> are ſo fooliſh, and the People of <hi>England</hi> ſo mad, as to chuſe for their Governors and Repreſentatives (with whom they truſt their Lives and all, and by whom, as has been often ſaid by our betters, they can only be undone,) thoſe that they know not, or onely upon recommendation of a Faction, ſuch as are Enemies to the King, who if really ſo, will be Enemies to themſelves: The worſt you can ſay of them, is, that they are factiouſly mad and fanatical, but that they are the minor part, you will not now ſure have the impudence to ſay it to me, or to any but ſome at <hi>Sala<g ref="char:EOLhyphen"/>manca,</hi> or far enough from underſtanding or hearing the truth; but that is only in an<g ref="char:EOLhyphen"/>ſwer to your wrong laid poſition: And for Vindication of the City's Government of late, I think it would be an intruſion for me on thoſe ingenious Gentlemen who ſit at Helm, and are better able to do it, my place as yet, is, as alſo yours ought to be, rather to ſubmit and acquieſce in their prudent management of Affairs, and not ſaw<g ref="char:EOLhyphen"/>cily to contradict 'em (as you have, as far as you can) being that to which under the Auſpicious influence of our Great Governour, if my ſhallow judgment fail me not, be<g ref="char:EOLhyphen"/>ing confirmed by the opinion of a great Courtier, who frankly told me t'other day, not only this City but the whole Kingdom owes its preſent peace and quiet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>We will grant ye, that we ought to ſubmit to our Governours, but no fur<g ref="char:EOLhyphen"/>ther than may conſiſt with Loyalty to our Prince, in which caſe we may oppoſe with good Warrant all the factious Fanaticks any where; and when we were told it would be grateful to our Soveraign, would you have us refuſe ſetting our hands to ſuch a harmleſs Paper, which is void of all manner of Reflection.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cit.</speaker>
+                     <p>Very fine! Becauſe you would have Fools, for only ſuch will believe no Re<g ref="char:EOLhyphen"/>flections in that Paper, you are reſolved to do it now with a Warrant againſt the greateſt and the beſt part of the City; but to leave that to be taken notice of by others, tell me, do you think it no reflection upon the H. of C. what the King has ſaid of 'em in his Declaration, and he may ſure ſay that that 'tis not fit for every one to ſay: now in thanking the King for his Declaration, the meaning on't, ſurely is, thanks for Diſ<g ref="char:EOLhyphen"/>ſolving and publiſhing the faults of the two laſt Parliaments; and ſure, it will ſignifie nothing without they that choſe them, the People of <hi>England</hi> ſay ſo, which that ever they will, believe it who can for me. No certainly, they that urge this moſt, have
+<pb n="4" facs="tcp:59704:3"/>more underſtanding than to think to have it believed, but are only ſo taken with the notion, that they reſolve impudently to aſſert it, till a Parliament comes to ſtop their bawling. But of all the Militia-men and Grand-juries and other Addreſſers, I find none leſs concerned in chuſing Parliaments, and therefore ought to be as backward in crimi<g ref="char:EOLhyphen"/>nating as any, than thoſe in our Station; but when we ſee you had been put upon it, we thought the K. had a mind to know how many Lives and Fortunes among the Youths in <hi>London</hi> he had at his Service; and hoping none but the <hi>Obſervator</hi> would blame us for obſerving that method which the nature of Government calls for, application to a next Superiour; we reſolved upon an Addreſs to his Majeſties Vicegerent in this City, and we doubt not his Majeſty will ſee Loyalty through our Modeſty as well as your preſumption, and unleſs you take in thoſe of our ſize who have Loyalty for the King, and veneration for Parliaments, all that your Party do in Addreſſing, Abhorring, <hi>&amp;c.</hi> will ſignifie nothing to any that underſtand the conſtitution of our Government, unleſs you can convince them with plain Engliſh demonſtration that the Houſe of Commons is not the Real true Repreſentative of all the People, or the Majority of 'em, and the ſame of the Common-Hall; till then I ſay the Authors of <hi>Heraclitus</hi> and his gang may keep their Breath for a better purpoſe; for all they now do is to fill the Tory's mouths with ſome plauſible chat, which may ſway ſome, but very few, ſo ſimple men. It being almoſt Change time, in ſhort, pray let me know your Conviction and your Reſolution.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cou.</speaker>
+                     <p>Sir, With a great deal of Patience and Attention I have heard you, and though I muſt be one of Mris. <hi>Celliers</hi> followers in her Motto, <hi>I never change,</hi> yet I muſt do you that Juſtice, as to joyn iſſue with what you ſay between man and man to be true, but I am ſo far engaged and encouraged with and by our noble Patriots who ſet us on work, that as long as they hold up, I think I ſhall get no better Friends, and I'le e'ne hold to them: And for a Parliament, if it does come, 'tis but going to <hi>Holland</hi> a while, and drawing in our <hi>Obſervator</hi> Horns while that dread is over: in the mean time in Jolli<g ref="char:EOLhyphen"/>ty we Drink with a Huzza the D's Health, and in private, all the Salvation we look after, is, from a Parliament, <hi>Good Lord deliver us.</hi>
+                     </p>
+                  </sp>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>LONDON, <hi>Printed for</hi> Richard Janeway <hi>in</hi> Queens-Head-Alley <hi>in</hi> Pater-Noſter-Row. <hi>1681.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad">
+                  <pb facs="tcp:59704:3" rendition="simple:additions"/>
+                  <head>An Excellent New Ballad,</head>
+                  <opener>To the Tune of, <hi>How <g ref="char:V">Ʋ</g>nhappy is</hi> Phillis <hi>in Love.</hi>
+                  </opener>
+                  <lg n="1">
+                     <head>[1]</head>
+                     <l>LEt <hi>Oliver</hi> now be forgotten,</l>
+                     <l>His Policy's quite out of Doors;</l>
+                     <l>Let <hi>Bradſhaw</hi> and <hi>Hewſon</hi> lie rotten,</l>
+                     <l>Like Sons of Fanatical Whores:</l>
+                     <l>For <hi>Tony</hi>'s grown a Patrician,</l>
+                     <l>By Voting damn'd Sedition,</l>
+                     <l>For many years,</l>
+                     <l>Fam'd Polititian,</l>
+                     <l>The Mouth of all Presbyter Peers.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>[2]</head>
+                     <l>Old <hi>Tony</hi> a Turn-coat at <hi>Worſter,</hi>
+                     </l>
+                     <l>Yet ſwore he'd maintain the King's Right;</l>
+                     <l>But <hi>Tony</hi> did Swagger and Bluſter,</l>
+                     <l>Yet never drew Sword on his ſide.</l>
+                     <l>For <hi>Tony</hi> is like an old Stallion,</l>
+                     <l>He has ſtill the Pox of Rebellion,</l>
+                     <l>And never was ſound;</l>
+                     <l>Like the <hi>Camelion,</hi>
+                     </l>
+                     <l>Still changing his Shaps and his Ground.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>[3]</head>
+                     <l>Old <hi>Rowly</hi>'s return'd (Heave'ns bleſs him,)</l>
+                     <l>From Exile and Danger ſet free;</l>
+                     <l>Old <hi>Tony</hi> made haſt to Addreſs him,</l>
+                     <l>And ſwore none more Loyal then He:</l>
+                     <l>The King, (who knew him a Traytor,)</l>
+                     <l>And ſaw him ſquint like a Satyr;</l>
+                     <l>Yet through his Grace,</l>
+                     <l>Pardon'd the Matter,</l>
+                     <l>And gave him ſince the <hi>Purſe</hi> &amp; the <hi>Mace.</hi>
+                     </l>
+                  </lg>
+                  <lg n="4">
+                     <head>[4]</head>
+                     <l>And now little <hi>Chancellor Tony,</hi>
+                     </l>
+                     <l>With Honour had feather'd his Wing,</l>
+                     <l>And carefully pick'd up the Money,</l>
+                     <l>But never a Groat for the King:</l>
+                     <l>But <hi>Tony</hi>'s Luck was confounded;</l>
+                     <l>The D. who ſmoakt him a Round-head;</l>
+                     <l>From Head to Heel</l>
+                     <l>
+                        <hi>Tony</hi> was ſounded,</l>
+                     <l>And <hi>Y</hi>—ſoon put a Spoke in his Wheel.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>[5]</head>
+                     <l>But now little <hi>Tony</hi> in Paſſion,</l>
+                     <l>Like Boy that had nettl'd his Breech,</l>
+                     <l>Maliciouſly took an occaſion,</l>
+                     <l>To make a moſt delicate Speech;</l>
+                     <l>He told the King like a Croney;</l>
+                     <l>If e're he hop'd to have Money,</l>
+                     <l>He muſt be Rul'd:</l>
+                     <l>Oh fine <hi>Tony!</hi>
+                     </l>
+                     <l>Was ever Potent Monarch ſo ſchool'd?</l>
+                  </lg>
+                  <lg n="6">
+                     <head>[6]</head>
+                     <l>The King iſſues out a <hi>Proclamation,</hi>
+                     </l>
+                     <l>By Learned and Loyal Advice;</l>
+                     <l>But <hi>Tony</hi> poſſeſſes the Nation</l>
+                     <l>The Councel will never be wiſe:</l>
+                     <l>For <hi>Tony</hi> is madder and madder,</l>
+                     <l>And <hi>M</hi>— blows like a Bladder,</l>
+                     <l>And <hi>L</hi>— too,</l>
+                     <l>Who grows gladder,</l>
+                     <l>That They Great <hi>York</hi> are like to ſubdue.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>[7]</head>
+                     <l>But Deſtiny ſhortly will croſs it,</l>
+                     <l>For <hi>Tony</hi>'s grown Gouty and Sick,</l>
+                     <l>In ſpite of his Spiggot and Fawcet,</l>
+                     <l>The States-man muſt go to <hi>Old Nick:</hi>
+                     </l>
+                     <l>For <hi>Tony</hi> rails at the <hi>Papiſt,</hi>
+                     </l>
+                     <l>Yet He himſelf is an <hi>Atheiſt;</hi>
+                     </l>
+                     <l>Though ſo preciſe,</l>
+                     <l>Fooliſh and Apiſh,</l>
+                     <l>Like Holy <hi>Quack</hi> or <hi>Priest</hi> in Diſguiſe.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>[8]</head>
+                     <l>But now let this Rump of the Law-ſee,</l>
+                     <l>A Maxim as Learned in part;</l>
+                     <l>Who e're with his Prince is too ſawcy,</l>
+                     <l>'Tis fear'd he's a Traytor in's Heart:</l>
+                     <l>Then <hi>Tony</hi> ceaſe to be witty,</l>
+                     <l>By buzzing Treaſon i'th' City;</l>
+                     <l>And love the King,</l>
+                     <l>So ends my Dity;</l>
+                     <l>Or elſe let him die like a Dog in a ſtring.</l>
+                  </lg>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>Printed for <hi>Benjamin Harris</hi> at the <hi>Stationors Arms</hi> at the <hi>Royal Exchange,</hi> and are to be ſold by <hi>Langley Curtis</hi> in <hi>Goatham Court</hi> on <hi>Ludgate-hill,</hi> 1681.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
